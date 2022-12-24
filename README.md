@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidCs9
-- 👀 I’m interested in python, machine learning and ethical hacking
-- 🌱 I’m currently learning python and ethical hacking
+- 👀 I’m interested in full-stack development, machine learning and ethical hacking
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me ... www.http://www.davidcastro.tech/
 
 <!---
