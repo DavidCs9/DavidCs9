@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidCs9
-- 👀 I’m interested in full-stack development, machine learning and ethical hacking
+- 👀 I’m interested in frontend development.
 - 🌱 I’m currently working as Frontend Developer Jr at PID Electronics
 - 📫 How to reach me ... http://www.davidcastro.site/
 
