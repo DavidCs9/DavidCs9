@@ -2,8 +2,8 @@
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently working as Frontend Developer at PID Electronics
 - 📫 How to reach me ... http://www.davidcastro.site/
-- 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCs9)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCs9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DavidCs9/DavidCs9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
