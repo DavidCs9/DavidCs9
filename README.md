@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DavidCs9
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently working as Frontend Developer at PID Electronics
-- 📫 How to reach me ... http://www.davidcastro.site/
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCs9&show_icons=true&theme=radical&rank_icon=github)](https://github.com/DavidCs9)
 
