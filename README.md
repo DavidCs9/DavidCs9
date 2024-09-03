@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidCs9
-- 👀 I’m interested in Serverless Architecture and.
+- 👀 I’m interested in Serverless Architecture.
 - 🌱 I’m currently working as Software Developer at PID Electronics
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCs9&show_icons=true&theme=radical&rank_icon=github)](https://github.com/DavidCs9)
