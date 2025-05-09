@@ -1,24 +1,45 @@
-### 👋 About Me  
-Hi, I’m **David Eduardo Castro Siqueiros**, a dedicated **Software Developer** passionate about crafting **scalable, user-friendly applications**. I thrive on tackling complex challenges and creating solutions that deliver value to both users and businesses.
+## 👨‍💻 Full Stack Developer | AWS Certified | TypeScript Enthusiast
 
-### 💻 What I Do  
-- **🌟 Current Role:** Mid-Level Software Developer at PID Electronics  
-  - Building and optimizing web applications with a focus on performance and scalability.  
-  - Leveraging full-stack expertise and serverless architectures to deliver innovative solutions.  
-  - Actively mentoring junior developers and contributing to team success.  
+Hi, I'm David, a Full Stack Developer with expertise in modern web technologies and cloud solutions. I specialize in building high-performance, scalable applications that solve real business problems.
 
-- **👀 Areas of Focus:**  
-  - **Scalable Systems:** Designing applications that grow seamlessly with business needs.  
-  - **Leadership Development:** Enhancing my skills to take on senior and managerial responsibilities in the future.  
-  - **Continuous Learning:** Staying at the forefront of emerging technologies like AWS and modern frameworks.
+## 🔧 Technical Skills
 
-### 🚀 Looking Ahead  
-I see myself advancing into a **Senior Developer** role and ultimately transitioning into a **Engineering Manager** position. My goal is to lead teams, mentor talent, and drive impactful projects that make a difference in the tech world.
+- **Languages:** TypeScript, JavaScript, Python, Golang, PL/SQL, Bash
+- **Frontend:** React, Angular, jQuery, Shadcn UI, Tanstack Query
+- **Backend:** Node.js, Express, AWS Lambda, API Gateway
+- **Databases:** MySQL, DynamoDB
+- **Cloud:** AWS (Lambda, SQS, SNS, S3, CloudFormation, SAM)
+- **DevOps:** Docker, Git, GitHub Actions, Linux
+- **Tools:** Swagger/OpenAPI, Cursor AI
 
-### 📈 On the Horizon  
-I’m eager to advance my career, taking on **leadership roles** and contributing to impactful projects. My goal is to join a forward-thinking company where I can grow as a **senior engineer** and mentor others.
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCs9&show_icons=true&theme=radical&rank_icon=github)](https://github.com/DavidCs9)
+## 🚀 Professional Experience
+
+Currently working at **PID Electronics** where I:
+
+- Transformed a mission-critical system monitoring fracking operations (100K daily transactions)
+- Led TypeScript migration reducing critical bugs by 35% and accelerating feature delivery by 40%
+- Integrated React into legacy applications, boosting developer productivity by 70%
+- Engineered GenAI solutions using Gemini AI API for operational insights
+- Optimized database performance, reducing query latency by 75%
+- Developed comprehensive API documentation for 300+ endpoints
+
+## 🏆 Achievements
+
+- **AWS Certified Developer Associate (DVA-C02)** - 2025
+- **AWS Certified Cloud Practitioner** - 2024
+- Reduced report generation time by 90% through serverless architecture implementation
+- Created documentation that accelerated developer onboarding by 30%
+
+## 🌱 Currently Learning
+
+- Advanced AWS serverless architectures
+- System design for high-scale applications
+- AI/ML integration in business applications
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/davidcastrosiq)
+- [Email](mailto:davidcastrosi@hotmail.com)
 
 <!---
 DavidCs9/DavidCs9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
