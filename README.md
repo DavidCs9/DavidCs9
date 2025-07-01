@@ -1,40 +1,53 @@
-## 👨‍💻 Full Stack Developer | AWS Certified | TypeScript Enthusiast
+# 🤖 Senior Application Developer | Generative AI & Cloud Specialist
 
-Hi, I'm David, a Full Stack Developer with expertise in modern web technologies and cloud solutions. I specialize in building high-performance, scalable applications that solve real business problems.
+Hi, I'm David, a Senior Application Developer at **PSL Group** specializing in building intelligent, scalable applications with a core focus on Generative AI. I architect and implement sophisticated solutions using Retrieval-Augmented Generation (RAG) to solve complex business challenges and drive innovation.
+
+My passion lies at the intersection of cutting-edge AI, robust backend systems, and seamless user experiences.
 
 ## 🔧 Technical Skills
 
-- **Languages:** TypeScript, JavaScript, Python, Golang, PL/SQL, Bash
-- **Frontend:** React, Angular, jQuery, Shadcn UI, Tanstack Query
+### 🧠 AI / ML
+- **Generative AI:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs)
+- **Frameworks:** LangChain
+- **Vector Databases:** Pinecone
+- **Models & APIs:** Google Gemini, OpenAI API
+
+### 💻 Core Technologies
+- **Languages:** Python, TypeScript, JavaScript, Golang, PL/SQL, Bash
 - **Backend:** Node.js, Express, AWS Lambda, API Gateway
-- **Databases:** MySQL, DynamoDB
+- **Frontend:** React, Angular, Shadcn UI, Tanstack Query
+- **Databases:** MySQL, DynamoDB, PostgreSQL
 - **Cloud:** AWS (Lambda, SQS, SNS, S3, CloudFormation, SAM)
 - **DevOps:** Docker, Git, GitHub Actions, Linux
 - **Tools:** Swagger/OpenAPI, Cursor AI
 
 ## 🚀 Professional Experience
 
-Currently working at **PID Electronics** where I:
+**Senior Application Developer** @ **PSL Group** (Present)
 
-- Transformed a mission-critical system monitoring fracking operations (100K daily transactions)
-- Led TypeScript migration reducing critical bugs by 35% and accelerating feature delivery by 40%
-- Integrated React into legacy applications, boosting developer productivity by 70%
-- Engineered GenAI solutions using Gemini AI API for operational insights
-- Optimized database performance, reducing query latency by 75%
-- Developed comprehensive API documentation for 300+ endpoints
+I am currently focused on pioneering Generative AI initiatives.
 
-## 🏆 Achievements
+## 🏆 Certifications & Achievements
 
+### AI & Machine Learning
+- **Building Applications with Vector Databases**
+- **LangChain for LLM Application Development**
+- **Generative AI for Everyone**
+
+### Cloud & Development
 - **AWS Certified Developer Associate (DVA-C02)** - 2025
 - **AWS Certified Cloud Practitioner** - 2024
-- Reduced report generation time by 90% through serverless architecture implementation
-- Created documentation that accelerated developer onboarding by 30%
+
+### Key Career Accomplishments
+- Led the TypeScript migration of a mission-critical system, reducing critical bugs by 35% and accelerating feature delivery by 40%.
+- Optimized database performance for a high-volume application (100K+ daily transactions), reducing query latency by 75%.
+- Reduced critical report generation time by 90% through the implementation of a serverless architecture on AWS.
 
 ## 🌱 Currently Learning
 
-- Advanced AWS serverless architectures
-- System design for high-scale applications
-- AI/ML integration in business applications
+- Advanced RAG techniques (e.g., query transformation, hybrid search)
+- LLM fine-tuning and evaluation strategies
+- Multi-modal AI models
 
 ## 📫 Let's Connect
 
